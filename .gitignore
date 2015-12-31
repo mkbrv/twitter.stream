@@ -1,0 +1,19 @@
+## Directory-based project format:
+.idea/
+*.iml
+
+# Logs
+logs
+*.log
+npm-debug.log*
+results.txt
+
+# node and npm
+node_modules/
+.npm
+
+!node_modules/_
+
+
+# grunt intermediate storage
+.grunt

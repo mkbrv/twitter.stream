@@ -1,0 +1,13 @@
+{
+  "name": "twitter.stream.app.config",
+  "version": "0.0.1",
+  "private": true,
+  "author": "mikibrv",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
